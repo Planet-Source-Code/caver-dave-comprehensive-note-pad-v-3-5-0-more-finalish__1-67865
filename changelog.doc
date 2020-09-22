@@ -1,0 +1,93 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f36\froman\fcharset238\fprq2 Times New Roman CE;}{\f37\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f39\froman\fcharset161\fprq2 Times New Roman Greek;}{\f40\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f41\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f42\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f43\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f44\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\f46\fswiss\fcharset238\fprq2 Arial CE;}{\f47\fswiss\fcharset204\fprq2 Arial Cyr;}{\f49\fswiss\fcharset161\fprq2 Arial Greek;}{\f50\fswiss\fcharset162\fprq2 Arial Tur;}{\f51\fswiss\fcharset177\fprq2 Arial (Hebrew);}
+{\f52\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f53\fswiss\fcharset186\fprq2 Arial Baltic;}{\f54\fswiss\fcharset163\fprq2 Arial (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;
+\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;
+\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}}{\*\rsidtbl \rsid596172\rsid2710300\rsid3633000\rsid11274014}
+{\*\generator Microsoft Word 10.0.4524;}{\info{\author David Steer}{\operator David Steer}{\creatim\yr2007\mo8\dy14\hr13\min55}{\revtim\yr2007\mo8\dy20\hr16\min15}{\version4}{\edmins30}{\nofpages3}{\nofwords578}{\nofchars3298}{\*\company SDS SOFTWARE}
+{\nofcharsws3869}{\vern16475}}\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind4\viewscale100\nolnhtadjtbl\rsidroot11274014 \fet0\sectd \linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3
+\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain 
+\qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1\fs32\insrsid11274014\charrsid11274014 COMPREHENSIVE NOTE PAD BY D. STEER
+\par CHANGE LOG
+\par }{\f1\insrsid11274014 
+\par 
+\par }\pard \ql \li0\ri-1283\nowidctlpar\faauto\rin-1283\lin0\itap0\pararsid3633000 {\b\f1\ul\insrsid3633000 20/08/07 Version 3.5.0 more finalish !}{\f1\insrsid3633000 
+\par }{\strike\f1\insrsid3633000 20/08/07
+\par }{\f1\insrsid3633000 Added control tabstop enable / disable and 4 undo text formatting ( bold, underline, strike through and italic) buttons also changed font options to allow for selective font and font size changes as well as for the whole document.
+
+\par }{\b\f1\ul\insrsid3633000 
+\par }\pard \ql \li0\ri-1283\nowidctlpar\faauto\rin-1283\lin0\itap0 {\b\f1\ul\insrsid11274014 1}{\b\f1\ul\insrsid596172 6}{\b\f1\ul\insrsid11274014 /08/07 Version }{\b\f1\ul\insrsid596172 3.0.0 finalish}{\f1\insrsid11274014 
+\par }\pard \ql \li0\ri-1283\nowidctlpar\faauto\rin-1283\lin0\itap0\pararsid596172 {\strike\f1\insrsid596172 16/08/07
+\par }{\f1\insrsid596172 Added}{\b\f1\insrsid596172  }{\b\f1\insrsid596172\charrsid596172 Paras Chopra}{\b\f1\insrsid596172 \rquote s }{\f1\insrsid596172\charrsid596172 b}{\f1\insrsid596172 asic PDF conversion form and textbox buffer}{
+\b\f1\insrsid596172\charrsid596172 
+\par }{\strike\f1\insrsid596172 
+\par }\pard \ql \li0\ri-1283\nowidctlpar\faauto\rin-1283\lin0\itap0 {\strike\f1\insrsid11274014 14/08/07
+\par }{\f1\insrsid11274014 Added}{\b\f1\insrsid11274014  Tom Moran's}{\f1\insrsid11274014  Url (web address) highlighting function and added the web page launch button}{\f1\insrsid596172  and goto line functions}{\f1\insrsid11274014 
+\par }{\b\f1\ul\insrsid11274014 
+\par 11/04/07 Version 2.75.0 beta release}{\f1\insrsid11274014 
+\par }{\strike\f1\insrsid11274014 11/04/07
+\par }{\f1\insrsid11274014 Added selected text highlighting
+\par 
+\par }{\strike\f1\insrsid11274014 03/04/07
+\par }{\f1\insrsid11274014 Added new link form design, with flash animation
+\par 
+\par }{\strike\f1\insrsid11274014 28/03/07
+\par }{\f1\insrsid11274014 Added an implementation of }{\b\f1\insrsid11274014 Mario Villanueva's}{\f1\insrsid11274014  RTB Table function, with added select number of Rows & Columns and Table width, very simple and not complete but functional enough for now
+
+\par Partially redesigned interface to make more room, new as needed tabs introduced as with the IsPalindrome checker - now it only appears when required( less real estate Roger!). As needed tabs come with drag n drop functionality
+\par }{\strike\f1\insrsid11274014 
+\par 26/03/07
+\par }{\f1\insrsid11274014 Added Lines, Columns & Rows functions from }{\b\f1\insrsid11274014 David Ross Goben's}{\f1\insrsid11274014  psc article
+\par 
+\par }{\b\f1\ul\insrsid11274014 05/03/07 Version 2.5.0 beta release}{\f1\insrsid11274014 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\strike\f1\insrsid11274014 04/03/07}{\f1\insrsid11274014 
+\par Added functionality in being able to add a shortcut icon to the desktop
+\par Added Word listing function for added functionality in helping to create the brew it yourself spell checker lists
+\par Added Insert Special Symbol Dialogue for increase functionality and useability
+\par 
+\par }{\strike\f1\insrsid11274014 03/03/07}{\f1\insrsid11274014 
+\par Added Reverse String function noitcnuf gnirtS esreveR deddA
+\par Implemented custom cursors for all buttons, check boxes, combo boxes and Hi-Lite colour picker
+\par 
+\par }{\strike\f1\insrsid11274014 02/03/07}{\f1\insrsid11274014 
+\par Added Palimndrome checker, hi-light and click, an implementation of }{\b\f1\insrsid11274014 Roger Glichrist's}{\f1\insrsid11274014  IsPalindrome
+\par Added Number to Roman Numeral function, from }{\b\f1\insrsid11274014 Sarfraz Ahmed's}{\f1\insrsid11274014  string processor
+\par Added Numeral to Words  function, from }{\b\f1\insrsid11274014 Sarfraz Ahmed's}{\f1\insrsid11274014  string processor
+\par 
+\par }{\strike\f1\insrsid11274014 28/02/07}{\f1\insrsid11274014  
+\par Added Tabbed interface for up to 10 open documents at any given time
+\par Added Multiple word hi-lighting, multi-colours, bold & underlined, up to 48 individual colours
+\par 
+\par }{\b\f1\ul\insrsid11274014 18/02/07 Version 2.0.0 released}{\f1\insrsid11274014 
+\par }{\strike\f1\insrsid11274014 18/02/07}{\f1\insrsid11274014  
+\par In response to the comments that have been made regarding v 1.0.0 I have added a find and replace dialogue all the tool tips for the function buttons are now in place, along with a basic spell checker that uses a brew it yourself word list. 
+\par One major modification has been to add a line spacing function, this is I think the only one of its kind on planet source code!, this has added to a better presentation of the text when required.
+\par 
+\par }{\strike\f1\cf1\insrsid11274014 15/02/07}{\f1\insrsid11274014 
+\par Fixed missing forms: file wiper forms referenced from outside of project, now included in the project 
+\par Bug reported by Robert Rayment
+\par 
+\par }{\b\f1\ul\insrsid11274014 14/02/07 Version 1.0.0 released}{\f1\insrsid11274014 
+\par They say that every programmer should write atleast 1 text editor and this one is in response to a challenge from a friend of mine, he wanted a replacement for notepad and a bit more so I decided to trump his ace.
+\par 
+\par I have created a big bold sdi notepad with lots of buttons and more to come! and probably a tabbed interface for multiple file opening and editing and much, much more
+\par 
+\par This is going to be an on going project i hope to be posting updates to it once a month ( yeah right!)
+\par The code is not all mine and the main credits are on the about screen:
+\par credits go to 
+\par }\pard \ql \li1701\ri0\nowidctlpar\faauto\rin0\lin1701\itap0 {\b\f1\insrsid11274014 GioRock}{\f1\insrsid11274014 ,              cryptopic text to picture encryption and 
+\par                                decryption implementation                       
+\par }\pard \ql \li1710\ri0\nowidctlpar\faauto\rin0\lin1710\itap0 {\b\f1\insrsid11274014 Herman liu}{\f1\insrsid11274014 ,         DispCaretPos implementation
+\par }{\b\f1\insrsid11274014 Wazerface}{\f1\insrsid11274014 ,          Word2001(parts of) 
+\par }{\b\f1\insrsid11274014 Nite4000}{\f1\insrsid11274014 ,             NitePad2002(parts of)
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\insrsid11274014 
+\par Most of the code is mine it has just been the oddities that i have had to garner along with some hints from others' code on psc along the way
+\par 
+\par This code is open source change it, bend it, do what u will with it just give credit where credit is due.
+\par 
+\par }}
